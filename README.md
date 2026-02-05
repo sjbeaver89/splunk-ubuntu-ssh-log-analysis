@@ -25,3 +25,6 @@ The goal is to showcase **log analysis, field extraction, and dashboard creation
 - **Browser:** Firefox inside VM
 
 
+## Full Project Report
+A detailed step-by-step report with screenshots, troubleshooting, and analysis is included here:  
+**SplunkInstall.docx**
